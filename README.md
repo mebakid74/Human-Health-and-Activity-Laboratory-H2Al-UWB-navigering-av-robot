@@ -10,8 +10,8 @@ Kåre Synnes.
 
 
 
-Deltagare:
-Furhoff, Hannes
-Kebede, Mebaselassie Kidane
-Nord, Oscar
-Valdivia Vargas, Andrés
+Deltagare:  (<-- two spaces)
+Furhoff, Hannes  (<-- two spaces)
+Kebede, Mebaselassie Kidane (<-- two spaces)
+Nord, Oscar (<-- two spaces)
+Valdivia Vargas, Andrés (<-- two spaces)
