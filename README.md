@@ -8,7 +8,8 @@ arbetssätt med *Scrum* som är en numera vanlig förekommande modell för
 projektarbete på *Luleå Tekniska Universitet* under handledning av 
 **Kåre Synnes**.
 ------------------
-Deltagare: 
+
+### Deltagare: 
 
 **Furhoff, Hannes** 
 **Kebede, Mebaselassie Kidane** 
