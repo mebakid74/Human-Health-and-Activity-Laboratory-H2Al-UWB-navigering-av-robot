@@ -6,11 +6,10 @@ Projektet fokuserar på ett datorbaserat problem genom att följa Agilt
 arbetssätt med Scrum som är en numera vanlig förekommande modell för 
 projektarbete på Luleå Tekniska Universitet under handledning av 
 **Kåre Synnes**.
+------------------
+Deltagare: 
 
-
-
-Deltagare:  (<-- two spaces)
-Furhoff, Hannes  (<-- two spaces)
-Kebede, Mebaselassie Kidane (<-- two spaces)
-Nord, Oscar (<-- two spaces)
-Valdivia Vargas, Andrés (<-- two spaces)
+**Furhoff, Hannes 
+Kebede, Mebaselassie Kidane 
+Nord, Oscar 
+Valdivia Vargas, Andrés**
