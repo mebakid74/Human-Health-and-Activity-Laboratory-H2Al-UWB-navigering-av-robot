@@ -4,7 +4,7 @@
 ------------------
 Projektet fokuserar på ett datorbaserat problem genom att följa *Agilt* arbetssätt med *Scrum* som är en numera vanlig förekommande modell för projektarbete på $$\textcolor{blue}{\text{Luleå Tekniska Universitet}}$$ under handledning av **Kåre Synnes**.
 
-### Deltagare: 
+### __Deltagare__: 
 ------
 **Furhoff, Hannes** <br>
 **Kebede, Mebaselassie Kidane** <br>
