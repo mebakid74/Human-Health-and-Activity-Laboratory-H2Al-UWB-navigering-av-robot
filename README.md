@@ -7,10 +7,10 @@ Projektet fokuserar på ett datorbaserat problem genom att följa $\textcolor{re
 
 
 ## Innehållsförteckning
-* [Deltagare] (#deltagare)
+* [Deltagare](#deltagare)
+* [Introduktion](#introduktion)
 
-
-# Deltagare 
+## Deltagare 
 
 **Furhoff, Hannes** <br>
 **Kebede, Mebaselassie Kidane** <br>
