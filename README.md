@@ -13,7 +13,7 @@ Projektet fokuserar på ett datorbaserat problem genom att följa $\textcolor{re
 
 ### Introduktion
 ------------------
-I denna projekt används en robot som kallas *Pepper*. Ursprungligen tillverkades och marknadsfördes av det franska företaget Aldebaran robotics, produktionen och marknadsföringen av Pepper togs över av det japanska företaget Softbank när det senare förvärvade Aldebaran robotics. Nedanför finns en bild av denna robot:
+I denna projekt används en robot som kallas *$\textcolor{green}{\text{Pepper}}$*. Ursprungligen tillverkades och marknadsfördes av det franska företaget Aldebaran robotics, produktionen och marknadsföringen av Pepper togs över av det japanska företaget Softbank när det senare förvärvade Aldebaran robotics. Nedanför finns en bild av denna robot:
 
 
 ![pepperRobot](https://user-images.githubusercontent.com/76616663/204897743-6c06c4a4-7139-4081-8456-d8f60ffa7a7e.png)
