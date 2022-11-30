@@ -9,8 +9,8 @@ Projektet fokuserar på ett datorbaserat problem genom att följa $\color{red}{A
 
 * [Introduktion](#introduktion)
 * [Projekt Presentation](#projektpresentation)
-* [Git repositories struktur](#gitrepositoriesstruktur)
 * [Utveckling och verktyg](#utvecklingochverktyg)
+* [Git repositories struktur](#gitrepositoriesstruktur)
 * [Deltagare](#deltagare)
 
 ## Introduktion
