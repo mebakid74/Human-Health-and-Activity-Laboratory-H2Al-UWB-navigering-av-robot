@@ -10,7 +10,7 @@ Projektet fokuserar på ett datorbaserat problem genom att följa $\textcolor{re
 * [Deltagare] (#deltagare)
 
 
-## Deltagare: 
+# Deltagare 
 
 **Furhoff, Hannes** <br>
 **Kebede, Mebaselassie Kidane** <br>
