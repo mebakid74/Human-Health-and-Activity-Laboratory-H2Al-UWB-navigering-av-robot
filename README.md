@@ -32,7 +32,7 @@ Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt even
  
 <br />
 <a href="https://www.python.org/">
-<img align="left" alt="Python" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
+<img align="center" alt="Python" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
  
 <br />
 <a href="https://www.java.com/sv/download/">
