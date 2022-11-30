@@ -7,7 +7,7 @@ Projektet fokuserar på ett datorbaserat problem genom att följa $\textcolor{re
 
 
 ## Innehållsförteckning
-* [Deltagare] (#Deltagare)
+* [Deltagare] (#deltagare)
 
 
 ## Deltagare: 
