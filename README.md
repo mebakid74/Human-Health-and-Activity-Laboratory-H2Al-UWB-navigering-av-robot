@@ -47,7 +47,7 @@ Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt even
  
 ## Git repositories struktur
  <div>
-  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" title="Java" alt="Java" width="80" height="80" <a href="https://www.java.com/sv/download/"> />&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" title="Java" alt="Java" width="80" height="80"/>&nbsp; <a href="https://www.java.com/sv/download/">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
