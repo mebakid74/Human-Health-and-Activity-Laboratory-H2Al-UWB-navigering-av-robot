@@ -29,13 +29,17 @@ Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt even
 
 <div> 
 <a href="https://www.python.org/"> <img align="left" alt="Python" width="80px" height="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
- 
-<a href="https://dev.java/"> <img align="left" alt="Java" width="80px" height="80px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+</div>
 
+<div>
+<a href="https://dev.java/"> <img align="left" alt="Java" width="80px" height="80px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
+</div>
+ 
+<div>
 <a href="https://kotlinlang.org/"> <img align="left" alt="Kotlin" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
 </div>
 
-\
+
  
 ## Git repositories struktur
  
