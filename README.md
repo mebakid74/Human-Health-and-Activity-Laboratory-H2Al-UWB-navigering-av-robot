@@ -8,16 +8,19 @@ Projektet fokuserar på ett datorbaserat problem genom att följa $\textcolor{re
 ## Innehållsförteckning
 
 * [Introduktion](#introduktion)
-* [Presentation av projekt](#presentationavprojekt)
+* [Projekt Presentation](#projektpresentation)
 * [Deltagare](#deltagare)
 
 ## Introduktion
 
-I denna projekt används en robot som kallas $\textcolor{green}{\text{Pepper}}$. Ursprungligen tillverkades och marknadsfördes av det franska företaget Aldebaran robotics, produktionen och marknadsföringen av Pepper togs över av det japanska företaget Softbank när det senare förvärvade Aldebaran robotics. Nedanför finns en bild av roboten som användes i denna projekt:
+I denna projekt används en robot som kallas $\textcolor{green}{\text{Pepper}}$. Ursprungligen tillverkades och marknadsfördes av det franska företaget Aldebaran robotics, produktionen och marknadsföringen av Pepper togs över av det japanska företaget *Softbank* när det senare förvärvade Aldebaran robotics. Nedanför finns en bild av roboten som användes i denna projekt:
 
 ![pepperRobot](https://user-images.githubusercontent.com/76616663/204897743-6c06c4a4-7139-4081-8456-d8f60ffa7a7e.png)
 
-## Presentation av projekt
+## Projekt Presentation
+
+Detta projekt består av att integrera *Pepper-roboten* med ett så kallad UWB-positioneringssystem med hjälp av WideFind, samt utveckla en applikation genom att använda olika verkyg bland annat API, WIFI kommunikation och sensorer inom äldreomsorg rummet, så att den ska kunna navigera till önskad plats där person befinner sig i rummet för att möjligtvis hjälpa till vid t.ex olycka osv. 
+
 
 
 ## Deltagare 
