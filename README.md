@@ -5,14 +5,14 @@
 Projektet fokuserar på ett datorbaserat problem genom att följa $\textcolor{red}{\text{Agilt}}$ arbetssätt med $\textcolor{red}{\text{Scrum}}$ som är en numera vanlig förekommande modell för projektarbete på $\textcolor{lightblue}{\text{Luleå Tekniska Universitet}}$ under handledning av $\textcolor{yellow}{\text{Kåre Synnes}}$.
 
 ## Deltagare: 
-------
+
 **Furhoff, Hannes** <br>
 **Kebede, Mebaselassie Kidane** <br>
 **Nord, Oscar** <br>
 **Valdivia Vargas, Andrés** <br>
 
 ## Introduktion
-------------------
+
 I denna projekt används en robot som kallas $\textcolor{green}{\text{Pepper}}$. Ursprungligen tillverkades och marknadsfördes av det franska företaget Aldebaran robotics, produktionen och marknadsföringen av Pepper togs över av det japanska företaget Softbank när det senare förvärvade Aldebaran robotics. Nedanför finns en bild av denna robot:
 
 
