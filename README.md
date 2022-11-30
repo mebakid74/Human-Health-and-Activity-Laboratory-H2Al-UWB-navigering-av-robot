@@ -53,7 +53,7 @@ Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt even
   
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" alt="Python" width="80" height="80" align="left"/>&nbsp;
   
- <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" title="Kotlin" alt="Kotlin" width="80" height="80" align="left"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" title="Kotlin" alt="Kotlin" width="80"  align="left"/>&nbsp;
 </div>
  
 ## Deltagare 
