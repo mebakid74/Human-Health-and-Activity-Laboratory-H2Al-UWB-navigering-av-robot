@@ -26,16 +26,15 @@ Detta projekt består av att integrera *Pepper-roboten* med ett så kallad UWB-p
 ## Utveckling och verktyg
 Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt eventuella tillägg/plugins.
 <div> 
- <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" title="Java" alt="Java" width="80" height="80"/>&nbsp;
-   <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" title="Kotlin" alt="Kotlin" width="60" height="60"/>&nbsp; 
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" alt="Python" width="80" height="80"/>&nbsp; 
-</div>
 
 <a href="https://dev.java/"> <img align="left" alt="Java" width="80px" height="80px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 
+<a href="https://kotlinlang.org/"> <img align="left" alt="Kotlin" width="60px" height="60px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
+ 
+<a href="https://www.python.org/"> <img align="left" alt="Python" width="80px" height="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+ 
 
-
-[<a href="https://reactjs.org/"> <img align="left" alt="React" width="80px" height="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](reactplaylist)
+</div>
 
 
 ## Git repositories struktur
