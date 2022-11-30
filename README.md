@@ -24,7 +24,7 @@ I denna projekt används en robot som kallas $\textcolor{green}{\text{Pepper}}$.
 Detta projekt består av att integrera *Pepper-roboten* med ett så kallad UWB-positioneringssystem med hjälp av WideFind, samt utveckla en applikation genom att använda olika verkyg bland annat API, WIFI kommunikation och sensorer inom äldreomsorg rummet, så att den ska kunna navigera till den önskad plats där person befinner sig i rummet för att möjligtvis hjälpa till vid t.ex olycka. 
 
 ## Utveckling och verktyg
-Projektet skapas med:
+Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt eventuella tillägg/plugins.
 <div> 
  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" title="Java" alt="Java" width="80" height="80"/>&nbsp;
    <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" title="Kotlin" alt="Kotlin" width="60" height="60"/>&nbsp; 
