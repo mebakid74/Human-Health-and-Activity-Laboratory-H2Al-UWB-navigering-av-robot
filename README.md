@@ -26,11 +26,11 @@ Detta projekt består av att integrera *Pepper-roboten* med ett så kallad UWB-p
 
 Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt eventuella tillägg/plugins.
 
-[<a href="https://www.python.org/"> <img align="left" alt="Python" width="80px" height="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />]
+<a href="https://www.python.org/"> <img align="center" alt="Python" width="80px" height="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br />
-[<a href="https://dev.java/"> <img align="left" alt="Java" width="80px" height="80px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />]
+<a href="https://dev.java/"> <img align="center" alt="Java" width="80px" height="80px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
 <br />
-[<a href="https://kotlinlang.org/"> <img align="left" alt="Kotlin" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />]
+<a href="https://kotlinlang.org/"> <img align="center" alt="Kotlin" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
 <br /> 
  
 ## Git repositories struktur
