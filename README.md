@@ -26,6 +26,8 @@ Detta projekt består av att integrera *Pepper-roboten* med ett så kallad UWB-p
 
 Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt eventuella tillägg/plugins.
 
+[<img align="left" alt="Visual Studio Code"  width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+
 <a href="https://www.python.org/"> <img align="left" alt="Python" width="80px" height="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 <a href="https://dev.java/"> <img align="left" alt="Java" width="80px" height="80px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" />
