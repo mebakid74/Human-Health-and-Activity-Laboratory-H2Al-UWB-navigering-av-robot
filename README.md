@@ -47,13 +47,13 @@ Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt even
  
 ## Git repositories struktur
  <div>
-  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" title="Java" alt="Java" width="80" height="80" a href="https://www.java.com/sv/download/"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" title="Java" alt="Java" width="60" href="https://www.java.com/sv/download/"/>&nbsp;
   
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="VS Code" alt="VS Code" width="80" height="80"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" title="VS Code" alt="VS Code" width="60" height="80"/>&nbsp;
   
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" alt="Python" width="80" height="80" />&nbsp;
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" alt="Python" width="60" height="80" />&nbsp;
   
- <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" title="Kotlin" alt="Kotlin" width="80"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" title="Kotlin" alt="Kotlin" width="50"/>&nbsp;
 </div>
  
 ## Deltagare 
