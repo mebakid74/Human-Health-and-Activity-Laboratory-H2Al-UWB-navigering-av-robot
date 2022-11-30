@@ -19,7 +19,7 @@ I denna projekt används en robot som kallas $\textcolor{green}{\text{Pepper}}$.
 
 ## Projekt Presentation
 
-Detta projekt består av att integrera *Pepper-roboten* med ett så kallad UWB-positioneringssystem med hjälp av WideFind, samt utveckla en applikation genom att använda olika verkyg bland annat API, WIFI kommunikation och sensorer inom äldreomsorg rummet, så att den ska kunna navigera till önskad plats där person befinner sig i rummet för att möjligtvis hjälpa till vid t.ex olycka osv. 
+Detta projekt består av att integrera *Pepper-roboten* med ett så kallad UWB-positioneringssystem med hjälp av WideFind, samt utveckla en applikation genom att använda olika verkyg bland annat API, WIFI kommunikation och sensorer inom äldreomsorg rummet, så att den ska kunna navigera till den önskad plats där person befinner sig i rummet för att möjligtvis hjälpa till vid t.ex olycka. 
 
 
 
