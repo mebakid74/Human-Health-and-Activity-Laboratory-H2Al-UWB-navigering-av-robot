@@ -25,9 +25,11 @@ Detta projekt består av att integrera *Pepper-roboten* med ett så kallad UWB-p
 
 ## Utveckling och verktyg
 Projektet skapas med:
-<div> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp; </div>
-
-<div> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" alt="Python" width="40" height="40"/>&nbsp; </div>
+<div> 
+ <img src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" title="Python" alt="Python" width="80" height="80"/>&nbsp; 
+  
+</div>
 
 *
 
