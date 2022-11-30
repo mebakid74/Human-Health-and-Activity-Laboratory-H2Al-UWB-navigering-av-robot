@@ -38,12 +38,10 @@ Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt even
 <a href="https://kotlinlang.org/"> 
  
 <br />
- 
-<br /> 
 
- \
+### Tillägg/plugins
  
- \
+ 
 ## Git repositories struktur
  
  
