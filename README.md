@@ -7,8 +7,8 @@ Projektet fokuserar på ett datorbaserat problem genom att följa $\textcolor{re
 
 ## Innehållsförteckning
 
-* [1.Introduktion](#introduktion)
-* [2.Deltagare](#deltagare)
+* [.Introduktion](#introduktion)
+* [.Deltagare](#deltagare)
 
 ## Introduktion
 
