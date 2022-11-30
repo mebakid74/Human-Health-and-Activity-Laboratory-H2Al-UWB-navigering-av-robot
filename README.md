@@ -11,8 +11,8 @@ Projektet fokuserar på ett datorbaserat problem genom att följa $\textcolor{re
 **Nord, Oscar** <br>
 **Valdivia Vargas, Andrés** <br>
 
-__Introduktion__
-
+### Introduktion
+------
 
 
 ![pepperRobot](https://user-images.githubusercontent.com/76616663/204897743-6c06c4a4-7139-4081-8456-d8f60ffa7a7e.png)
