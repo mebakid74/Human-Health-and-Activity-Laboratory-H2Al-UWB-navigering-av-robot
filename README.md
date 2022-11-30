@@ -10,3 +10,6 @@ Projektet fokuserar på ett datorbaserat problem genom att följa *Agilt* arbets
 **Kebede, Mebaselassie Kidane** <br>
 **Nord, Oscar** <br>
 **Valdivia Vargas, Andrés** <br>
+
+
+![Bilder](pepperRobot.png)
