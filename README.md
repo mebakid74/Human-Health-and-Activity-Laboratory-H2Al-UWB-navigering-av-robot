@@ -26,6 +26,7 @@ Detta projekt består av att integrera *Pepper-roboten* med ett så kallad UWB-p
 
 Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt eventuella tillägg/plugins.
 
+<div>
 <a href="https://code.visualstudio.com/">
 <img align="left" alt="Visual Studio Code"  width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" 
 />
@@ -36,8 +37,7 @@ Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt even
 /> 
 <img align="left" alt="Kotlin" width="50px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
 <a href="https://kotlinlang.org/"> 
- 
-<br />
+ </div>
 
 ### Tillägg/plugins
  
