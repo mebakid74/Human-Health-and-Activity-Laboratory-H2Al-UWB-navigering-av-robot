@@ -9,6 +9,8 @@ Projektet fokuserar på ett datorbaserat problem genom att följa $\textcolor{re
 
 * [Introduktion](#introduktion)
 * [Projekt Presentation](#projektpresentation)
+* [Git repositories struktur](#gitrepositoriesstruktur)
+* [Utveckling och verktyg](#utvecklingochverktyg)
 * [Deltagare](#deltagare)
 
 ## Introduktion
@@ -21,7 +23,12 @@ I denna projekt används en robot som kallas $\textcolor{green}{\text{Pepper}}$.
 
 Detta projekt består av att integrera *Pepper-roboten* med ett så kallad UWB-positioneringssystem med hjälp av WideFind, samt utveckla en applikation genom att använda olika verkyg bland annat API, WIFI kommunikation och sensorer inom äldreomsorg rummet, så att den ska kunna navigera till den önskad plats där person befinner sig i rummet för att möjligtvis hjälpa till vid t.ex olycka. 
 
+##Utveckling och verktyg
 
+
+
+## Git repositories struktur
+Kommer skrivas när allt är uppladdat
 
 ## Deltagare 
 
