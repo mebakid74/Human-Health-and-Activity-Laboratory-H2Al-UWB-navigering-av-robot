@@ -35,7 +35,8 @@ Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt even
 <a href="https://kotlinlang.org/"> <img align="left" alt="Kotlin" width="50px" height="50px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png" />
 </div>
 
-<br />
+\
+ 
 ## Git repositories struktur
  
  
