@@ -9,7 +9,6 @@ Projektet fokuserar på ett datorbaserat problem genom att följa $\color{red}{A
 * [Introduktion](#introduktion)
 * [Projekt Presentation](#projektpresentation)
 * [Utveckling och verktyg](#utvecklingochverktyg)
-* [Git repositories struktur](#gitrepositoriesstruktur)
 * [Deltagare](#deltagare)
 
 ## Introduktion
@@ -44,9 +43,6 @@ Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt even
 <br /> 
  
 <br />
- 
-## Git repositories struktur
-
  
 ## Deltagare 
 
