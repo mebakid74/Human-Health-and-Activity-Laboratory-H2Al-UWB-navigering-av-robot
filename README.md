@@ -2,7 +2,7 @@
 
 ### Projekt 2022/23 i D0020E, Projekt i datateknik, Lp2-3, H22
 
-Projektet fokuserar på ett datorbaserat problem genom att följa $\color{red}{Agilt}$ arbetssätt med $\color{red}{Scrum}$ som är en numera vanlig förekommande modell för projektarbete på $\textcolor{lightblue}{\text{Luleå Tekniska Universitet}}$ under handledning av $\textcolor{black}{\text{Kåre Synnes}}$.
+Projektet fokuserar på ett datorbaserat problem genom att följa $\color{red}{Agilt}$ arbetssätt med $\color{red}{Scrum}$ som är en numera vanlig förekommande modell för projektarbete på $\textcolor{blue}{\text{Luleå Tekniska Universitet}}$ under handledning av $\textcolor{black}{\text{Kåre Synnes}}$.
 
 ## Innehållsförteckning
 
