@@ -25,20 +25,13 @@ Detta projekt består av att integrera *Pepper-roboten* med ett så kallad UWB-p
 
 Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt eventuella tillägg.
 
-<a href="https://code.visualstudio.com/">
-<img align="left" alt="Visual Studio Code" width="60px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
- 
-<br />
-<a href="https://www.python.org/">
-<img align="center" alt="Python" width="80px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
- 
-<br />
-<a href="https://www.java.com/sv/download/">
-<img align="left" alt="Java" width="80px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/> 
- 
- <br />
-<a href="https://kotlinlang.org/"> 
-<img align="left" alt="Kotlin" width="50px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"/>
+<img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+
+<img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
+<img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+<img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
 <br /> 
  
