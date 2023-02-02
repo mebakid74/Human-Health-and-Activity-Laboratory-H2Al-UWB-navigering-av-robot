@@ -1,4 +1,4 @@
-package com.example.robotapp;
+package com.example.d0020e_robbot;
 
 import androidx.appcompat.app.AppCompatActivity;
 

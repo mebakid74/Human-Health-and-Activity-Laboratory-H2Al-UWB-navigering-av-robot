@@ -3,12 +3,12 @@ plugins {
 }
 
 android {
-    namespace 'com.example.robotapp'
+    namespace 'com.example.d0020e_robbot'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.robotapp"
-        minSdk 23
+        applicationId "com.example.d0020e_robbot"
+        minSdk 24
         targetSdk 33
         versionCode 1
         versionName "1.0"
@@ -36,4 +36,6 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.5'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
+	implementation 'com.aldebaran:qisdk:1.7.5'
+	implementation 'com.aldebaran:qisdk-design:1.7.5'
 }

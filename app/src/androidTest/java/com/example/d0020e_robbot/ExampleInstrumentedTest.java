@@ -1,4 +1,4 @@
-package com.example.robotapp;
+package com.example.d0020e_robbot;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.robotapp", appContext.getPackageName());
+        assertEquals("com.example.d0020e_robbot", appContext.getPackageName());
     }
 }
