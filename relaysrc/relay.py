@@ -5,7 +5,22 @@ from signalrcore.hub_connection_builder import HubConnectionBuilder
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import threading
 import queue
+import math
 
+# https://stackoverflow.com/questions/56207448/efficient-quaternions-to-euler-transformation
+def quat_to_euler(w, x, y, z):
+    ysqr = y * y
+    t0 = +2.0 * (w * x + y * z)
+    t1 = +1.0 - 2.0 * (x * x + ysqr)
+    X = math.degrees(math.atan2(t0, t1))
+    t2 = +2.0 * (w * y - z * x)
+    t2 = +1.0 if t2 > +1.0 else t2
+    t2 = -1.0 if t2 < -1.0 else t2
+    Y = math.degrees(math.asin(t2))
+    t3 = +2.0 * (w * z + x * y)
+    t4 = +1.0 - 2.0 * (ysqr + z * z)
+    Z = math.degrees(math.atan2(t3, t4))
+    return [X, Y, Z]
 
 class SignalRClient:
     def __init__(self, queue):
@@ -23,8 +38,8 @@ class SignalRClient:
         self.client.on_open(lambda: print("connection opened"))
         self.client.on_close(lambda: print("connection closed"))
         self.client.on("Event", self.onCallback)
-        self.latestPerson = [0, 0, 0]
-        self.latestRobot = [0, 0, 0]
+        self.latestPerson = [0, 0, 0, 0, 0, 0]
+        self.latestRobot = [0, 0, 0, 0, 0, 0]
         self.queue = queue
         self.throttle = 0
 
@@ -66,12 +81,15 @@ class SignalRClient:
 
         d = json.loads(e[0])
         if d["Source"]["MAC"] == self.addr["macPerson"]:
-            self.latestPerson = d["Content"]["Position"]
+            angle = d["Content"]["Orientation"]
+            self.latestPerson = d["Content"]["Position"] + quat_to_euler(angle[0], angle[1], angle[2], angle[3])
         
-        if d["Source"]["MAC"] == self.addr["macRobot"]:
-            self.latestRobot = d["Content"]["Position"]
+        elif d["Source"]["MAC"] == self.addr["macRobot"]:
+            angle = d["Content"]["Orientation"]
+            self.latestRobot = d["Content"]["Position"] + quat_to_euler(angle[0], angle[1], angle[2], angle[3])
+            
     
-        val = [str(i) for i in self.latestPerson] +  [str(j) for j in self.latestRobot]
+        val = [str(i) for i in self.latestPerson] + [str(j) for j in self.latestRobot]
         if self.queue.full():
             self.queue.get()
         self.queue.put(val)
