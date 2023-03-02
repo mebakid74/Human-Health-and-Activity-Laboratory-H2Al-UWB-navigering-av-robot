@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="sv" dir="ltr">
+    <head>
+        <title>GUI Handler</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="styles.css">
+        <script src="https://kit.fontawesome.com/784f430f58.js" crossorigin="anonymous"></script>
+    </head>
+   
+<body>
+    <div class="container">
+        <header>
+            <div class="form-box">
+                <h1>Patient login</h1>
+                <form>
+                    <div class="input-group">
+
+                        <div class="input-field">
+                            <i class="fa-solid fa-user offline-icon"></i>
+                           <!---<i class="fa-solid fa-user"></i>-->
+                            <input 
+                            type="text" 
+                            placeholder="Personnummer"
+                            name="loginUser" id="personnummer"
+                            required/>
+                            
+                        </div>
+
+                        <div class="input-field">
+                            <i class="fa-solid fa-lock offline-icon"></i>
+                           <!----<i class="fa-solid fa-lock"></i>-->
+                            <input 
+                            type="password" placeholder="Lösenord"
+                            name="loginPassword" id="password"
+                            required
+                            />
+                        </div>
+
+                        <div class="btn">
+                            <input type="submit" value="login" class="submit-btn" onclick="auth()"
+                        />
+                        </div>
+
+                         <!-- <div class="btn-field">
+                            <button type="button">Logga in</button> 
+                        </div> -->
+
+                    </div>
+                </form>
+            </div>
+
+            <script>
+                function auth (){
+                    var personnummer = document.getElementById("personnummer").value;
+                    var password = document.getElementById("password").value;
+                    if (personnummer == "909090-0000" && password == "Grupp12") {
+                        window.location.assign("./main.html");
+                        alert("Loggin lyckades");
+                    } else {
+                        alert("Fel inloggning");
+                        return;
+                    }
+                }
+
+           </script>
+        </div>
+    </header>
+</div>
+
+</body>
+</html>
