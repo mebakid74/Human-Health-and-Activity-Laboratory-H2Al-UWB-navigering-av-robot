@@ -9,6 +9,7 @@ Projektet fokuserar på ett datorbaserat problem genom att följa $\color{red}{A
 * [Introduktion](#introduktion)
 * [Projekt Presentation](#projektpresentation)
 * [Utveckling och verktyg](#utvecklingochverktyg)
+* [Demostration](#demo)
 * [Deltagare](#deltagare)
 
 ## Introduktion
@@ -25,17 +26,29 @@ Detta projekt består av att integrera *Pepper-roboten* med ett så kallad UWB-p
 
 Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt eventuella tillägg.
 
+<img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+
+<img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+<img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+<img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+
+<img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
 <img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 <img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-
-<img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-
 <br /> 
  
 <br />
+
+## Demostration
+
+https://www.youtube.com/watch?v=2ZL-X0YFo0Y&t=14s
  
 ## Deltagare 
 
