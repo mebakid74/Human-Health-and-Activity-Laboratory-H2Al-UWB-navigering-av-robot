@@ -29,7 +29,7 @@ För att komma igång, klona repo:et
 
 4, Navigera till `Frontend -> gui.py` för att kalla filerna från `Server -> public`
 
-5, Starta server från `cd Server` i terminalen skriv `node app.js` då 
+5, Starta server från `cd Server` i terminalen skriv `node app.js`
 
 6, Öppna i webbläsaren på din localhost https://localhost:3000 eller på servern t.ex http://130.240.200.103:5000/
 
