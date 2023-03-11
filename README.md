@@ -40,6 +40,8 @@ Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt even
 
 <img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 
+<img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" />
+
 <img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 <img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
