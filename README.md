@@ -30,6 +30,8 @@ Projektet skapades med hjälp av dessa programmeringsspråk, bibliotek samt even
 
 <img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 
+<img align="left" alt="Java" widht="60px" height="60" style="padding-right:50px;" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/128/Zoom-icon.png" >
+
 <img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
 <img align="left" alt="Java" width="60px" style="padding-right:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
