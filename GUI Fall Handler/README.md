@@ -1,6 +1,6 @@
 # GUI Fall Handler via Zoom SDK
 
-Denna mapp är en HTML / CSS / JavaScript / NodeJS som används [Zoom möte SDK] (https://marketplace.zoom.us/docs/sdk/native-sdks/web)
+Denna mapp är en Python / HTML / CSS / JavaScript / NodeJS som används [Zoom möte SDK](https://marketplace.zoom.us/docs/sdk/native-sdks/web)
 för att gå med i ett zoom video samtal.
 
 ## Installation-guide
@@ -47,7 +47,7 @@ För att aktivera utvecklarläget på surfplattan bör du följa dessa steg:
 
      3, Under `Device` navigera till `Home`. 
 
-     4, Byte till `Launcher3` och starta om roboten.
+     4, Ändra till `Launcher3` och starta om roboten.
 
 
 ## Showcase
