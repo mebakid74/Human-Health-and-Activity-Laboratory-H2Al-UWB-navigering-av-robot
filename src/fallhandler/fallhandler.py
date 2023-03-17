@@ -1,34 +1,34 @@
-class FallHandler:
-    
 # constants
 PERSON_DOWN = False
-PERSON_UP = True    
+PERSON_UP = True
 
 class FallHandler:
     def __init__(self, nav):
         self.positionPacket = "POSITION"
         self.settings = {
-            "down-time": 30,
+            "down-time": 2,
             "y-min": 0.4
         }
         self.navigation = nav
         self.reset()
-        
+
     def handlePositionalData(self, p):
         if (self.suspended): return
-        posHuman = p[0:2]
-        posRobot = p[3:5]
-        print(pos)
-        state = PERSON_DOWN if posHuman[self.indexHeight] < self.settings["y-min"] else PERSON_UP
+        posHuman = p[0:3]
+        posRobot = p[6:9]
+        print(posHuman, posRobot)
+        state = PERSON_DOWN if posHuman[2] < self.settings["y-min"] else PERSON_UP
         if state == PERSON_DOWN:
             self.stateCounter += 1
+            print("down", self.stateCounter)
             if self.stateCounter > self.settings["down-time"]:
                 self.suspend()
                 print("suspended")
+                self.navigation.onFall(posHuman, posRobot)
 
         else:
             self.reset()
-                      
+
     # suspend positional tracking (robot is helping)
     def suspend(self):
         self.suspended = True

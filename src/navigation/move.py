@@ -7,8 +7,10 @@ import math
 from naoqi import ALProxy
 
 
+#från comms.py: person pos[x,y,z] rot[x,y,z], robot pos[x,y,z] rot[x,y,z]
 
 def main(ip, port = 9559):
+        type(p)
 
         ip = "130.240.114.12"
 
@@ -45,4 +47,4 @@ def move():
         #starta countdown för ringa vårdare
         else:
             move(#nya värden)
-                
+         

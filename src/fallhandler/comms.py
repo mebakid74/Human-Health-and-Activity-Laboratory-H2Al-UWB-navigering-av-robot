@@ -1,19 +1,15 @@
 import requests
 import time
 
-webServerUrl = "http://130.240.114.124:8081"
+def makeRequest(url):
+    return [float(x) for x in requests.get(url).content.decode('utf-8').replace("[","").replace("]","").replace("'","")$
 
-def makeRequest():
-    return [float(x) for x in requests.get(webServerUrl).content.decode('utf-8').replace("[","").replace("]","").replace("'","").split(",")]
-
-def commsLoop(fh):
-    while 1:
+def commsLoop(fh, url, delay):
+    print("starting relay reading")
+    while True:
         try:
-            p = makeRequest()
-            print(p)
-            #fh.handlePositionalData()
+            p = makeRequest(url)
+            fh.handlePositionalData(p)
         except Exception as e:
             print(e)
-        time.sleep(0.1)
-
-commsLoop(None)
+        time.sleep(delay)
